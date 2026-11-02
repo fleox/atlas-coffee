@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /atlas-coffee/admin/
+
+Sitemap: https://fleox.github.io/atlas-coffee/sitemaps/sitemap-index.xml
